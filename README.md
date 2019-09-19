@@ -6,8 +6,7 @@ elevator in TTU architecture building
 
 ### Take photos of the control interface
 ![Screenshot](elv.png)
-![Screenshot](0D417A62-8898-4E2E-B9EA-0B8E8467EEDC.jpeg)
-![Screenshot](4DFFB354-C681-4480-8D85-66F966C971E9.jpeg) ![Screenshot](D59C791C-B298-45D1-9EF1-939CA9D0DD0E.jpeg)
+ ![Screenshot](D59C791C-B298-45D1-9EF1-939CA9D0DD0E.jpeg)
 
 ### Show a gif image of the control interface in operation:
 ![gif](elvsmall.gif)
