@@ -8,6 +8,7 @@ elevator in TTU arcitecture building
 ![Screenshot](elv.png)
 
 ### Show a gif image of the control interface in operation:
+![gif](elvsmall.gif)
 
 ### Find the issues with the current design:
 - If you press the wrong button on the elevator you cannot unpress that button
