@@ -3,7 +3,7 @@
 ##C:
 Find an elevator in the apartment/campus/hotel: elevator in TTU arcitecture building 
 
-![Screenshot](Screenshot (101).png)
+![Screenshot](elv.png)
 
 - Issue: If you press the wrong button on the elevator you cannot unpress that button
 
@@ -21,6 +21,8 @@ floor, let the doors open, exit the elevator.
 
 - Some common mistakes you can make with the design are hitting the wrong button, trying to go down when the elivator is goin up, and getting off on 
 the wrong floor.
+
+![design](design.png)
 
 
 
