@@ -1,16 +1,23 @@
 # Homework-1-The-Elevator-interface
 
-##C:
-Find an elevator in the apartment/campus/hotel: elevator in TTU arcitecture building 
+## getting C:
+### Find an elevator in the apartment/campus/hotel: 
+elevator in TTU arcitecture building 
 
+### Take photos of the control interface
 ![Screenshot](elv.png)
 
-- Issue: If you press the wrong button on the elevator you cannot unpress that button
+### Show a gif image of the control interface in operation:
 
+### Find the issues with the current design:
+If you press the wrong button on the elevator you cannot unpress that button
+
+### Explain why it is bad:
 - The issue is bad becoues it forces you to stop at a floor you don't want to if you make a mistake.
 
-##B:
+## getting B:
 
+## Think about the common things that you use an elevator. List your most common uses and other more rare uses. Does the interface make doing those common things easier?
 - Common uses of an elevator are changing floors, and opening/cloasing elivator door. more rare uses are calling for help and setting the alarm off.
 The example interface makes it more dificult to get to the correct floor.
 
@@ -24,5 +31,7 @@ the wrong floor.
 
 ![design](design.jpeg)
 
+
+what
 
 
