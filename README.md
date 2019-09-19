@@ -1,6 +1,8 @@
 # Homework-1-The-Elevator-interface
 
 ##C:
+Find an elevator in the apartment/campus/hotel: elevator in TTU arcitecture building 
+
 
 
 - Issue: If you press the wrong button on the elevator you cannot unpress that button
