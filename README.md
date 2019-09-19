@@ -22,7 +22,7 @@ floor, let the doors open, exit the elevator.
 - Some common mistakes you can make with the design are hitting the wrong button, trying to go down when the elivator is goin up, and getting off on 
 the wrong floor.
 
-![design](design.png)
+![design](design.jpeg)
 
 
 
