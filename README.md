@@ -40,6 +40,6 @@ floor, let the doors open, exit the elevator.
 
 
 ## Getting A:
-[link to elevator](https://github.com/BenFischer001/Homework-1-The-Elevator-interface/blob/master/touchelv.pptx?raw=true)
+[Touch screen interface](https://github.com/BenFischer001/Homework-1-The-Elevator-interface/blob/master/touchelv.pptx?raw=true)
 
 
